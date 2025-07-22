@@ -2,6 +2,11 @@
 
 🚀 I'm a **Software Developer** passionate about building scalable web applications and solving real-world problems through clean and efficient code.
 
+<p display="flex">
+  <img src="https://github.com/ayushmittal0608/ayushmittal0608/blob/d3f56e855925147218bdf00311e1319f6d1941f9/total.PNG" width="300" alt="My image" />
+  <img src="https://github.com/ayushmittal0608/ayushmittal0608/blob/d3f56e855925147218bdf00311e1319f6d1941f9/streak.PNG" width="300" alt="My image" />
+</p>
+
 🔧 **Tech Stack:**
 - 💻 Languages: C++, JavaScript, Python
 - 🌐 Web: HTML, CSS, Node.js, Express.js, MongoDB, mySQL, TypeScript, TailwindCSS
