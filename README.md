@@ -8,7 +8,7 @@
 - ☁️ Cloud & Tools: AWS, Git, GitHub, Vercel, Netlify
 - 🧠 Core Strengths: Data Structures & Algorithms, System Design, REST APIs
 
-<img src="https://raw.githubusercontent.com/ayushmittal0608/repo/main/languages.PNG" width="300" alt="My image" />
+<img src="https://github.com/ayushmittal0608/ayushmittal0608/blob/c12946f0963d8530e64107d60da58de879dae376/languages.PNG" width="300" alt="My image" />
 
 
 
