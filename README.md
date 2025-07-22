@@ -4,7 +4,6 @@
 
 <p align="center" display="flex">
       <img src="https://raw.githubusercontent.com/ayushmittal0608/ayushmittal0608/d3f56e855925147218bdf00311e1319f6d1941f9/total.PNG" width="300" />
-    
       <img src="https://raw.githubusercontent.com/ayushmittal0608/ayushmittal0608/d3f56e855925147218bdf00311e1319f6d1941f9/streak.PNG" width="300" />
   </p>  
 
