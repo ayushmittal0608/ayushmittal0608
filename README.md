@@ -8,7 +8,8 @@
 - ☁️ Cloud & Tools: AWS, Git, GitHub, Vercel, Netlify
 - 🧠 Core Strengths: Data Structures & Algorithms, System Design, REST APIs
 
-![Alt Text](https://github-readme-stats.vercel.app/api/top-langs/username=ayushmittal0608&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<img src="https://raw.githubusercontent.com/ayushmittal0608/repo/main/languages.png" width="300" alt="My image" />
+
 
 
 🛠️ **Currently working on:** A **Cloud Cost Optimization Dashboard** that addresses a key business pain point — AWS and other cloud services don’t provide billing details in INR. My project aggregates and converts cloud costs (AWS, Azure) into a unified dashboard with INR support, helping Indian users track and optimize multi-cloud spending more effectively.
