@@ -4,7 +4,7 @@
 
 <p display="flex" align="center" justify-content="space-between" gap=4>
   <img src="https://github.com/ayushmittal0608/ayushmittal0608/blob/d3f56e855925147218bdf00311e1319f6d1941f9/total.PNG" width="300" alt="My image" />
-  <img src="https://github.com/ayushmittal0608/ayushmittal0608/blob/d3f56e855925147218bdf00311e1319f6d1941f9/streak.PNG" width="350" alt="My image" />
+  <img src="https://github.com/ayushmittal0608/ayushmittal0608/blob/d3f56e855925147218bdf00311e1319f6d1941f9/streak.PNG" width="320" alt="My image" />
 </p>
 
 🔧 **Tech Stack:**
