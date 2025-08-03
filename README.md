@@ -9,7 +9,7 @@
 
 🔧 **Tech Stack:**
 - 💻 Languages: C++, JavaScript, Python
-- 🌐 Web: HTML, CSS, Node.js, Express.js, MongoDB, mySQL, TypeScript, TailwindCSS
+- 🌐 Web: HTML, CSS, React.js, Node.js, Express.js, MongoDB, mySQL, TypeScript, TailwindCSS
 - ☁️ Cloud & Tools: AWS, Git, GitHub, Vercel, Netlify
 - 🧠 Core Strengths: Data Structures & Algorithms, System Design, REST APIs
 
