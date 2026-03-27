@@ -8,10 +8,10 @@
   </p>  
 
 🔧 **Tech Stack:**
-- 💻 Languages: C++, JavaScript, Python
-- 🌐 Web: React.js, Node.js, Express.js, MongoDB, PostgreSQL, TypeScript, TailwindCSS
-- ☁️ Cloud & Tools: AWS, Git, GitHub, Vercel, Netlify
-- 🧠 Core Strengths: Data Structures & Algorithms, System Design, REST APIs
+- 💻 Languages: C++, JavaScript(language written on C++ Engine), Python
+- 🌐 Web: React.js(framework built on JS/CSS), Node.js(backend runtime for JS), Express.js, MongoDB(noSQL), PostgreSQL(DBMS and industry-grade), TypeScript(type version of javascript), TailwindCSS(utility first CSS framework)
+- ☁️ Cloud & Tools: AWS(system design and integration), Git(to perform github related operations), GitHub(deploying and storing project), Vercel, Netlify, EC2, GoDaddy, Hostinger
+- 🧠 Core Strengths: Data Structures & Algorithms(C++ for exploring algorithms and multi-dimensions), System Design(OOPs concepts to build documentation and roadmap on how to build product), REST APIs(Experience with REST APIs and asynchronous messaging systems (RabbitMQ) for scalable solutions)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushmittal0608/ayushmittal0608/c12946f0963d8530e64107d60da58de879dae376/languages.PNG" width="300" alt="My image" />
