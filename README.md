@@ -1,21 +1,21 @@
 ## Hi there 👋
 
-🚀 I'm a **Software Engineer** passionate about building scalable web applications and solving real-world problems through clean and efficient code.
-
-<p align="center" display="flex">
-      <img src="https://raw.githubusercontent.com/ayushmittal0608/ayushmittal0608/d3f56e855925147218bdf00311e1319f6d1941f9/total.PNG" width="300" />
-      <img src="https://raw.githubusercontent.com/ayushmittal0608/ayushmittal0608/d3f56e855925147218bdf00311e1319f6d1941f9/streak.PNG" width="325" />
-  </p>  
+ I'm a **Software Engineer** passionate about building scalable web applications and solving real-world problems through clean and efficient code.
 
 🔧 **Tech Stack:**
-- 💻 Languages: C++, JavaScript(language written on C++ Engine), Python
-- 🌐 Web: React.js(framework built on JS/CSS), Node.js(backend runtime for JS), Express.js, MongoDB(noSQL), PostgreSQL(DBMS and industry-grade), TypeScript(type version of javascript), TailwindCSS(utility first CSS framework)
-- ☁️ Cloud & Tools: AWS(system design and integration), Git(to perform github related operations), GitHub(deploying and storing project), Vercel, Netlify, EC2, GoDaddy, Hostinger
-- 🧠 Core Strengths: Data Structures & Algorithms(C++ for exploring algorithms and multi-dimensions), System Design(OOPs concepts to build documentation and roadmap on how to build product), REST APIs(Experience with REST APIs and asynchronous messaging systems (RabbitMQ) for scalable solutions)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushmittal0608/ayushmittal0608/c12946f0963d8530e64107d60da58de879dae376/languages.PNG" width="300" alt="My image" />
-</p>
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react) 
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) 
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws) 
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+
+
+## 🚀 Expertise
 
 I am currently working as a Software Engineer at Softscience Tech Private Limited, an early-stage startup. My focus is on fintech projects, where I apply software engineering and system design skills to drive company growth. I pay particular attention to scalability, ensuring that our systems can handle growth without incurring excessive deployment and maintenance costs, while maintaining high performance.
 
