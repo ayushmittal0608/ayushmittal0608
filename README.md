@@ -17,13 +17,13 @@
 
 ## 🚀 Expertise
 
-I am currently working as a Software Engineer at Softscience Tech Private Limited, an early-stage startup. My focus is on fintech projects, where I apply software engineering and system design skills to drive company growth. I pay particular attention to scalability, ensuring that our systems can handle growth without incurring excessive deployment and maintenance costs, while maintaining high performance.
+I am currently working as a Software Engineer at Softscience Tech Private Limited, an early-stage fintech startup. I work on designing and building scalable backend systems for fintech products with a focus on performance, reliability, and cost-efficient architecture.
 
-A key part of my approach is building capabilities independently to reduce reliance on existing structures. I consistently solve LeetCode problems pattern-wise, which strengthens my coding skills and enables me to approach problems from multiple dimensions. Each new problem opens a fresh perspective, allowing me to think creatively about applying solutions.
+I actively solve DSA problems (LeetCode, pattern-based approach) to strengthen problem-solving and apply it in backend engineering scenarios.
 
-I actively study system design concepts through Alex Xu’s System Design book, and I’ve realized that system design can be more creative and effective when combined with critical thinking. No system is perfect; understanding the expected user base, evaluating trade-offs, and controlling costs are crucial for building efficient and scalable solutions.
+I study system design using Alex Xu’s System Design and focus on real-world trade-offs such as scalability, latency, and cost.
 
-I believe the tech world should be more open to discussion and experimentation. I am open to collaborating and discussing ideas on GitHub. Feel free to connect with me if you want to discuss or experiment on anything technical.
+Open to backend and system design discussions.
 
 📫 **Connect with me:**
 - LinkedIn: https://www.linkedin.com/in/ayush-mittal-1b2059228
