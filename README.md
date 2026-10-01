@@ -19,11 +19,5 @@
 
 I am currently working as a Software Engineer at Softscience Tech Private Limited, an early-stage fintech startup. I work on designing and building scalable backend systems for fintech products with a focus on performance, reliability, and cost-efficient architecture.
 
-I actively solve DSA problems (LeetCode, pattern-based approach) to strengthen problem-solving and apply it in backend engineering scenarios.
-
-I study system design using Alex Xu’s System Design and focus on real-world trade-offs such as scalability, latency, and cost.
-
-Open to backend and system design discussions.
-
 📫 **Connect with me:**
 - LinkedIn: https://www.linkedin.com/in/ayush-mittal-1b2059228
